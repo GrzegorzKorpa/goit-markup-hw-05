@@ -554,6 +554,9 @@ nav .navi-menu-studio {
   fill: #f4f4fd;
 }
 
+.subscribe-container {
+}
+
 .p-subscribe {
   margin-bottom: 16px;
   font-weight: 500;
@@ -568,6 +571,10 @@ nav .navi-menu-studio {
   display: flex;
   gap: 24px;
   padding-left: 80px;
+}
+
+.label-subscribe {
+  display: flex;
 }
 
 .input-subscribe {
