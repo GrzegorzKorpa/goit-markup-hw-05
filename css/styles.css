@@ -727,3 +727,18 @@ nav .navi-menu-studio {
 .comment-area:focus {
   border-color: #4d5ae5;
 }
+
+.check-area {
+  margin-bottom: 25px;
+}
+
+.input-visibility {
+  visibility: hidden;
+}
+
+.label-privacxy {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+}
