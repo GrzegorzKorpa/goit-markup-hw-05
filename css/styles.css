@@ -674,6 +674,10 @@ nav .navi-menu-studio {
 .svg-button-one:hover {
   fill: #ffffff;
 } */
+/* 
+.button-one svg:checked {
+  fill: #ffffff;
+} */
 
 .modal-paragraph {
   font-weight: 500;
