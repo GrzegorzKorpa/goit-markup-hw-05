@@ -666,6 +666,15 @@ nav .navi-menu-studio {
   border: none;
 }
 
+.svg-button-one {
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.svg-button-one:focus,
+.svg-button-one:hover {
+  fill: #ffffff;
+}
+
 .modal-paragraph {
   font-weight: 500;
   font-size: 16px;
