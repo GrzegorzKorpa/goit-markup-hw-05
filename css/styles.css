@@ -750,7 +750,7 @@ nav .navi-menu-studio {
 }
 
 .check-area {
-  margin-bottom: 25px;
+  margin-bottom: 24px;
 }
 
 .label-privacxy {
@@ -758,4 +758,7 @@ nav .navi-menu-studio {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+}
+
+.visually-hidden {
 }
