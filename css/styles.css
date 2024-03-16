@@ -781,8 +781,14 @@ nav .navi-menu-studio {
   fill: transparent;
 }
 
-.svg-privacy {
+.label-privacy-span:checked {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
 }
+
+/* .svg-privacy {
+} */
 
 .a-privacy {
   color: #4d5ae5;
@@ -803,10 +809,4 @@ nav .navi-menu-studio {
   background-color: #4d5ae5;
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.label-privacy-span:focus {
-  background-color: #404bbf;
-  border: none;
-  fill: #f4f4fd;
 }
