@@ -117,6 +117,12 @@ nav .navi-menu-studio {
   /* height: 4px; */
 }
 
+nav .navi-mobile-studio {
+  /* position: relative; */
+  color: #404bbf;
+  /* height: 4px; */
+}
+
 .navi-menu-studio::after {
   content: "";
   width: 100%;
